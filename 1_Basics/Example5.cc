@@ -8,7 +8,7 @@
 
 int main()
 {
-    bool is_prime = true;
+    bool is_primehaha = false;
 
     int number;
     std::cout << "Please enter the number: ";
